@@ -3,7 +3,7 @@ name: Deploy FrontEnd
 on:
   push:
     branches:
-      - main:
+      - main
 
 permissions:
   contents: read
